@@ -19,7 +19,7 @@
 
 - Information Technology Student
 - Aspiring Web Developer
-- Personal website [link](github.com/personal-website)
+- Personal website [link]([github.com/personal-website](https://andimags.github.io/personal-website/))
 
 <br><br>
 
@@ -46,10 +46,11 @@
 
 <br>
 
-- **Cloud Hosting**:
+- **Backend Development**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
+   ![PHP]([https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white))
+   ![Laravel]([https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white))
+
 <br>
 
 - **Softwares and Tools**:
