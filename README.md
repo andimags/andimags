@@ -19,7 +19,7 @@
 
 - Information Technology Student
 - Aspiring Web Developer
-- Personal website [link]([github.com/personal-website](https://andimags.github.io/personal-website/))
+- [Check my personal website here]([github.com/personal-website](https://andimags.github.io/personal-website/))
 
 <br><br>
 
