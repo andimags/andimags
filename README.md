@@ -14,6 +14,7 @@
 <picture> <img align="right" src="https://media4.giphy.com/media/TALEyDTerIxdUh9L1s/giphy.gif?cid=ecf05e477055itahiveenc5n8c91v3ru8efuvoimfix2gm1o&ep=v1_gifs_related&rid=giphy.gif&ct=s" width = 125px></picture>
 
 - Information Technology Student
+- Currently a full-stack developer intern
 - Aspiring Web Developer
 - [Check my personal website here](https://andimags.github.io/personal-website/)
 
