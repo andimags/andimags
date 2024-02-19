@@ -6,29 +6,19 @@
 </p>
 
 
-<br>
-
-
 
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://media4.giphy.com/media/TALEyDTerIxdUh9L1s/giphy.gif?cid=ecf05e477055itahiveenc5n8c91v3ru8efuvoimfix2gm1o&ep=v1_gifs_related&rid=giphy.gif&ct=s" width = 125px></picture>
 
-<br>
-
 - Information Technology Student
 - Aspiring Web Developer
 - [Check my personal website here](https://andimags.github.io/personal-website/)
 
-<br><br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br><br>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 
 <p align="center">
 
@@ -67,13 +57,7 @@
 
 </p>
 
-<br>
-<br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-<br>
 
 ## <b> Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="25">
 <br>
@@ -87,15 +71,11 @@
 </a>
 </li>
 
-<br>
-
 <li>
 <a href="https://twitter.com/andimags" target="_blank">
 <img src="https://img.shields.io/badge/twitter:  andimags-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
-
-<br>
 
 <li>
 <a href="mailto:andimagsumbol@gmail.com" target="_blank">
@@ -106,24 +86,14 @@
 </ul>
 </div>
 
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
 
 <div align='center'>
 
 ## <b>Thank you! ✨</b>
 
 </div>
-<br>
-<br>
-<br>
-<br>
 
 ---
 
-<br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+Credits: [Abdul Khalid](https://github.com/0xabdulkhalid)
