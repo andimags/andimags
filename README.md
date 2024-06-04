@@ -16,7 +16,7 @@
 - Information Technology Student
 - Currently a full-stack developer intern
 - Aspiring Web Developer
-- [Check my personal website here](https://andimags.github.io/personal-website/)
+- [Check my personal website here](https://personal-website3.vercel.app/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
