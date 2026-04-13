@@ -64,9 +64,9 @@ $ cat interests.txt
 
 **`// Cloud & DevOps`**
 
-![AWS S3](https://img.shields.io/badge/AWS_S3-111827?style=for-the-badge&logo=amazons3&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-111827?style=for-the-badge&logo=amazonec2&logoColor=white)
-![AWS RDS](https://img.shields.io/badge/AWS_RDS-111827?style=for-the-badge&logo=amazonrds&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonec2&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonrds&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=white)
 
 **`// Version Control & Tools`**
