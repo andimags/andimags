@@ -1,73 +1,126 @@
-# Hi there 🌞 I'm Andi!
+<!-- HEADER -->
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=07D200&width=435&lines=Jr.+Full+Stack+Developer;IT+Degree+Holder;Graphic+Designer;Artist)](https://git.io/typing-svg)
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                    SYSTEM ACCESS GRANTED                      ║
+║              USER: ANDI  //  STATUS: ONLINE                   ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-I'm a Jr. Full-Stack Developer specializing in Laravel, React.js, Next.js, and Express.js. I hold a degree in Information Technology from the University of the East. Feel free to reach out via email or LinkedIn!
+<br/>
 
-[Check my personal website here](https://andimags.vercel.app/)
+![Full Stack Dev](https://img.shields.io/badge/Full_Stack_Dev-00ff88?style=for-the-badge&labelColor=030a05&color=030a05&logoColor=00ff88)
+![Designer](https://img.shields.io/badge/Designer-00ff88?style=for-the-badge&labelColor=030a05&color=030a05&logoColor=00ff88)
+![Artist](https://img.shields.io/badge/Artist-00ff88?style=for-the-badge&labelColor=030a05&color=030a05&logoColor=00ff88)
 
-## Skill set:
+</div>
 
--   **Languages**:
+---
 
-    ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-    ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+```bash
+$ whoami
+> Andi — Jr. Full-Stack Dev @ Metro Manila, PH
 
--   **Frameworks & Libraries**:
+$ cat profile.txt
+> Specializing in React.js, Next.js, Express.js, Nest.js, and Laravel.
+> Degree in Information Technology — University of the East.
+> Feel free to reach out via email or LinkedIn!
 
-    ![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)
-    ![NestJS Badge](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=for-the-badge)
-    ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-    ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
-    ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
-    ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
-    ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+$ cat interests.txt
+> 🎮 Video games   ✒️ Designing   🎨 Drawing   🎸 Indie / Rock / Alt music
+```
 
--   **Databases**:
+🌐 **[andimags.vercel.app](https://andimags.vercel.app/)**
 
-    ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
-    ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
+---
 
--   **Softwares and Tools**:
+## `> TECH_STACK --list`
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-    ![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff&style=for-the-badge)
-    ![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=for-the-badge)
-    ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge)
-    ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
-    ![DBeaver Badge](https://img.shields.io/badge/DBeaver-382923?logo=dbeaver&logoColor=fff&style=for-the-badge)
+**`// Languages`**
 
--   **Cloud Services**:
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=react&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-    ![Amazon S3 Badge](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=fff&style=for-the-badge)
-    ![Amazon EC2 Badge](https://img.shields.io/badge/Amazon%20EC2-F90?logo=amazonec2&logoColor=fff&style=for-the-badge)
-    ![Amazon RDS Badge](https://img.shields.io/badge/Amazon%20RDS-527FFF?logo=amazonrds&logoColor=fff&style=for-the-badge)
+**`// Frameworks & Libraries`**
 
-### :technologist: I'm currently working on:
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-111827?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap&logoColor=white)
 
--   Practicing Docker with my apps :)
+**`// Databases`**
 
-### :nerd_face: I'm currently learning:
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=white)
 
--   Nest.js
--   Docker
--   Kubernetes
+**`// Cloud & DevOps`**
 
-### :thinking: I want to learn:
+![AWS S3](https://img.shields.io/badge/AWS_S3-111827?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-111827?style=for-the-badge&logo=amazonec2&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-111827?style=for-the-badge&logo=amazonrds&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=white)
 
--   SpringBoot
+**`// Version Control & Tools`**
 
-### Outside of coding I enjoy:
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-111827?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-111827?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-111827?style=for-the-badge&logo=jira&logoColor=white)
 
--   Playing video games 🎮
--   Designing ✒️
--   Drawing 🎨
--   Listening to music (indie, rock, alternative) 🎸
+---
+
+## `> STATUS --current`
+
+```
+╔══════════════════════════════════════════════════════╗
+║  PROCESS         STATUS        PRIORITY              ║
+╠══════════════════════════════════════════════════════╣
+║  Docker          [ACTIVE]      MEDIUM                ║
+║  Nest.js         [LEARNING]    MEDIUM                ║
+║  Kubernetes      [LEARNING]    MEDIUM                ║
+║  SpringBoot      [QUEUED]      LOW                   ║
+╚══════════════════════════════════════════════════════╝
+```
+
+<!-- ---
+
+## `> GITHUB_STATS --display`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=andimags&show_icons=true&hide_border=true&bg_color=030a05&title_color=00ff88&icon_color=00ff88&text_color=bdd4c5&ring_color=00ff88&include_all_commits=true&count_private=true" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andimags&layout=compact&hide_border=true&bg_color=030a05&title_color=00ff88&text_color=bdd4c5&langs_count=8" height="165"/>
+
+</div> -->
+
+---
+
+## `> CONNECT --target=andi`
+
+<div align="center">
+
+[![Personal Website](https://img.shields.io/badge/andimags.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=00ff88)](https://andimags.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andimags)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+// END OF FILE  ·  v1.0.0 [STABLE]  ·  ANDI.DEV
+```
+
+</div>
