@@ -28,7 +28,7 @@ $ cat profile.txt
 > Feel free to reach out via email or LinkedIn!
 
 $ cat interests.txt
-> 🎮 Video games   ✒️ Designing   🎨 Drawing   🎸 Indie / Rock / Alt music
+> 🐱 Cats  🎮 Video games   ✒️ Designing   🎨 Drawing   🎸 Indie / Punk / Rock / Alt / Bedroom Pop Music
 ```
 
 🌐 **[andimags.vercel.app](https://andimags.vercel.app/)**
