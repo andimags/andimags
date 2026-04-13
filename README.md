@@ -10,9 +10,9 @@
 
 <br/>
 
-![Full Stack Dev](https://img.shields.io/badge/Full_Stack_Dev-00ff88?style=for-the-badge&labelColor=030a05&color=030a05&logoColor=00ff88)
-![Designer](https://img.shields.io/badge/Designer-00ff88?style=for-the-badge&labelColor=030a05&color=030a05&logoColor=00ff88)
-![Artist](https://img.shields.io/badge/Artist-00ff88?style=for-the-badge&labelColor=030a05&color=030a05&logoColor=00ff88)
+![Full Stack Dev](https://img.shields.io/badge/Full_Stack_Dev-111827?style=for-the-badge&labelColor=030a05&color=030a05&logoColor=00ff88)
+![Artist](https://img.shields.io/badge/Artist-111827?style=for-the-badge&labelColor=030a05&color=030a05&logoColor=00ff88)
+![Designer](https://img.shields.io/badge/Designer-111827?style=for-the-badge&labelColor=030a05&color=030a05&logoColor=00ff88)
 
 </div>
 
